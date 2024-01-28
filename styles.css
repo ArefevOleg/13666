@@ -1,0 +1,9 @@
+.main_container {
+  background: rgb(9, 1, 1);
+}
+
+.main_text {
+  text-align: center;
+  color: red;
+  font-size: 500px;
+}
