@@ -1,2 +1,2 @@
 const userInput = window.prompt("Напиши что нибудь");
-document.write("Ваше сообщение: " + userInput);
+document.write("Ты настоящий панк?: " + userInput);
