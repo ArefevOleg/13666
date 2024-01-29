@@ -1,9 +1,9 @@
 .main_container {
-  background: rgb(130, 117, 117);
+  background: rgb(174, 156, 156);
 }
 
 .main_text {
   text-align: center;
-  color: red;
+  color: rgb(128, 42, 42);
   font-size: 500px;
 }
